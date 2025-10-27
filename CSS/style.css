@@ -118,14 +118,14 @@
 }
 
 .btn-primary{
-    background: linear-gradient(45deg , #ff6f61 , #ffb347);
+    background: linear-gradient(45deg , #177ff5 , #c0dee3);
     border: none;
     font-weight: bold;
     border-radius: 10px;
     transition: 0.3s ease;
 }
 .btn-primary:hover {
-    background: linear-gradient(45deg , #4d1a61 , #1c6d81);
+    background: linear-gradient(45deg , #ed7d1a , #e6d97e);
     transform: scale(1.05);
 }
 
